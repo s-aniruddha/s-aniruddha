@@ -3,7 +3,7 @@
 - 🌱 I’m a final year dual degree student at Indian Institute of Technology Madras, majoring in Engineering Physics and Data Science
 - 🔭 Currently working on **Matching options to tasks in Hierarchical Reinforcement Learning**
 - 🔎 Intersted in Deep Learning, Reinforcement Learning and Natural Language Processing
-- 🤔 Curious about Explainable AI and first-principle based architectures
+- 🤔 Curious about Explainable AI and First-principles based architectures
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/aniruddha-sundararajan/)
 - 🖥️ Check out my [Homepage](https://s-aniruddha.github.io/)
 - 😄 Pronouns: He/Him
