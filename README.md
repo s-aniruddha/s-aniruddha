@@ -1,6 +1,6 @@
 ### Hi there, I'm Aniruddha Sundararajan 👋
 
-- 🌱 I'm a first year masters student at ETH Zurich, majoring in Robotics, Systems and Control
+- 🌱 I'm a masters student at ETH Zurich, majoring in Robotics, Systems and Control
 - 🔭 Completed my dual degree in Engineering Physics and Data Science from Indian Institute of Technology Madras 
 - 🔎 Intersted in Deep Learning, Reinforcement Learning and Natural Language Processing
 - 🤔 Curious about Explainable AI and First-principles based neural architectures
